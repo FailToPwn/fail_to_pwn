@@ -1,6 +1,3 @@
 [submodule "fail-to-interface"]
 	path = crates/fail-to-interface
 	url = git@github.com:FailToPwn/fail-to-interface.git
-[submodule "fail-to-pwn-engine"]
-	path = crates/fail-to-pwn-engine
-	url = git@github.com:FailToPwn/fail-to-pwn-engine.git
