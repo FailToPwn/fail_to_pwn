@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 fail_to_interface = { path = "./crates/fail-to-interface", version = "*" }
+libloading = "0.7.3"
