@@ -1,0 +1,6 @@
+[submodule "fail-to-interface"]
+	path = fail-to-interface
+	url = git@github.com:FailToPwn/fail-to-interface.git
+[submodule "fail-to-pwn-engine"]
+	path = fail-to-pwn-engine
+	url = git@github.com:FailToPwn/fail-to-pwn-engine.git
